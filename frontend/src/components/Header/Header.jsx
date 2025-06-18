@@ -7,8 +7,8 @@ const Header = () => {
       <div className="header-contents">
         <h2>Order your favourite food</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
-          dolorem, dicta itaque iure fugiat architecto.
+          Metro Meals: Simply authentic. Simply delicious. Your home for genuine
+          Pakistani hospitality and unforgettable flavor.
         </p>
       </div>
     </div>
